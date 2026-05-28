@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 琼脂小屋</title>
-    <link>https://agar-cabin.site/categories/</link>
+    <link>https://www.agar-cabin.site/categories/</link>
     <description>Recent content in Categories on 琼脂小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="https://agar-cabin.site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agar-cabin.site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>【开发】速卖通插件AIA</title>
-      <link>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%9F%E5%8D%96%E9%80%9A%E6%8F%92%E4%BB%B6aia/</link>
+      <link>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%9F%E5%8D%96%E9%80%9A%E6%8F%92%E4%BB%B6aia/</link>
       <pubDate>Fri, 23 Oct 2020 20:58:34 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%9F%E5%8D%96%E9%80%9A%E6%8F%92%E4%BB%B6aia/</guid>
+      <guid>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%9F%E5%8D%96%E9%80%9A%E6%8F%92%E4%BB%B6aia/</guid>
       <description>简言 本文章持续更新。
 目录： V0.2（2020.10.30）
 V0.1（2020.10.23）
@@ -35,10 +35,10 @@ log：  新增 - 登入页面加载完毕后，自动点击注册按钮； 新�
     
     <item>
       <title>【开发】Hugo自动化部署</title>
-      <link>https://agar-cabin.site/%E5%BC%80%E5%8F%91hugo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</link>
+      <link>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91hugo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</link>
       <pubDate>Mon, 12 Oct 2020 21:10:24 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E5%BC%80%E5%8F%91hugo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91hugo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</guid>
       <description>简言: 用Hugo写完文章到部署到GitHub，至少需要键入6条命令，甚是耗时。
 欲想能否更加自动化些，遂从网络上找到了一键部署的方法。
 步骤:   打开自己的Blog目录，在该处新建文件并取名deploy.sh；
@@ -50,10 +50,10 @@ log：  新增 - 登入页面加载完毕后，自动点击注册按钮； 新�
     
     <item>
       <title>【开发】适配大БКРС俄语词典</title>
-      <link>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%82%E9%85%8D%E5%A4%A7%D0%B1%D0%BA%D1%80%D1%81%E4%BF%84%E8%AF%AD%E8%AF%8D%E5%85%B8/</link>
+      <link>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%82%E9%85%8D%E5%A4%A7%D0%B1%D0%BA%D1%80%D1%81%E4%BF%84%E8%AF%AD%E8%AF%8D%E5%85%B8/</link>
       <pubDate>Sat, 10 Oct 2020 13:36:43 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%82%E9%85%8D%E5%A4%A7%D0%B1%D0%BA%D1%80%D1%81%E4%BF%84%E8%AF%AD%E8%AF%8D%E5%85%B8/</guid>
+      <guid>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E9%80%82%E9%85%8D%E5%A4%A7%D0%B1%D0%BA%D1%80%D1%81%E4%BF%84%E8%AF%AD%E8%AF%8D%E5%85%B8/</guid>
       <description>简言 什么是AnkiHelper？AnkiHelper（Anki划词助手）是一款辅助Anki快速制卡的Android APP。
 从网络上搜罗了一圈并没有找到AnkiHelper可用的俄语词典，于是按照AnkiHelper自定义词典示范文件的标准，转制了一个标准格式的大БКРС词典。
 过程 由于大БКРС单词与释意的分隔符号是换行符，所以需要把换行符切换为制表符。
@@ -67,10 +67,10 @@ log：  新增 - 登入页面加载完毕后，自动点击注册按钮； 新�
     
     <item>
       <title>【开发】简易刷单辅助程序</title>
-      <link>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%93%E5%88%B7%E5%8D%95%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F/</link>
+      <link>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%93%E5%88%B7%E5%8D%95%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F/</link>
       <pubDate>Tue, 15 Sep 2020 17:46:00 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%93%E5%88%B7%E5%8D%95%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F/</guid>
+      <guid>https://www.agar-cabin.site/%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%93%E5%88%B7%E5%8D%95%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F/</guid>
       <description>目录： V2.0（2021.06.27） | V1.9（2020.11.17）
 V1.8（2020.11.14） | V1.7（2020.11.07）
 V1.6（2020.10.30） | V1.5（2020.10.17）
@@ -97,10 +97,10 @@ log：  增加 - 商店pct； 增加 - Excel加工； 增加 - 运行时间记�
     
     <item>
       <title>【信息】ПГСв-о20 课程表</title>
-      <link>https://agar-cabin.site/%E4%BF%A1%E6%81%AF%D0%BF%D0%B3%D1%81%D0%B2-%D0%BE20-%E8%AF%BE%E7%A8%8B%E8%A1%A8/</link>
+      <link>https://www.agar-cabin.site/%E4%BF%A1%E6%81%AF%D0%BF%D0%B3%D1%81%D0%B2-%D0%BE20-%E8%AF%BE%E7%A8%8B%E8%A1%A8/</link>
       <pubDate>Tue, 01 Sep 2020 18:49:31 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E4%BF%A1%E6%81%AF%D0%BF%D0%B3%D1%81%D0%B2-%D0%BE20-%E8%AF%BE%E7%A8%8B%E8%A1%A8/</guid>
+      <guid>https://www.agar-cabin.site/%E4%BF%A1%E6%81%AF%D0%BF%D0%B3%D1%81%D0%B2-%D0%BE20-%E8%AF%BE%E7%A8%8B%E8%A1%A8/</guid>
       <description>其他信息 课程查询
 网课首页
 学校首页
@@ -112,10 +112,10 @@ log：  增加 - 商店pct； 增加 - Excel加工； 增加 - 运行时间记�
     
     <item>
       <title>【信息】Hello world</title>
-      <link>https://agar-cabin.site/%E4%BF%A1%E6%81%AFhello-world/</link>
+      <link>https://www.agar-cabin.site/%E4%BF%A1%E6%81%AFhello-world/</link>
       <pubDate>Tue, 18 Aug 2020 19:23:08 +0300</pubDate>
       
-      <guid>https://agar-cabin.site/%E4%BF%A1%E6%81%AFhello-world/</guid>
+      <guid>https://www.agar-cabin.site/%E4%BF%A1%E6%81%AFhello-world/</guid>
       <description>Hello world.
 This is the first post of this blog.</description>
     </item>
